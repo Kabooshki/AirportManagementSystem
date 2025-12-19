@@ -2,6 +2,10 @@
 
 This is a **Concurrent** representation of how an Airport Management System would work in a real setting. **Mutual Exclusiveness**, **Locks**, **Thread Safety**, and **Resource Allocation** are the main learning points from this project for me and I hope it would help you see how concurrency works at a basic to intermediate level.
 
+## Demo
+
+![](ams_demo.gif)
+
 ## How to Run:
 
 1. Install **NetBeans** IDE
